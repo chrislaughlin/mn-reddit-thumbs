@@ -1,0 +1,28 @@
+{
+  "name": "mn-reddit-thumbs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chrislaughlin/mn-reddit-thumbs",
+  "authors": [
+    "Chris Laughlin <bluntm@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "backbone": "~1.2.1",
+    "underscore": ">=1.7.0"
+  },
+  "dependencies": {
+    "backbone": "~1.2.1",
+    "handlebars": "~3.0.3",
+    "lodash": "~3.9.3",
+    "marionette": "~2.4.1",
+    "requirejs-hbs": "~0.1.1",
+    "text": "~2.0.14"
+  }
+}
